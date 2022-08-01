@@ -1,5 +1,3 @@
 Git is free software distributed under the GPL.
-Git ÊÇÒ»¸ö°æ±¾¿ØÖÆÈí¼ş
-Git ÊÇ¿ªÔ´Ãâ·ÑµÄ
-ÎÒ°®ÀöÄÈ
-µ«Ëı²»°®ÎÒ
+Git æ˜¯ä¸€ä¸ªç‰ˆæœ¬æ§åˆ¶è½¯ä»¶
+Git æ˜¯å¼€æºå…è´¹çš„
